@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Creational.Patterns
 {
-    class Program
+    class StrategyMain
     {
         static void Main(string[] args)
         {
